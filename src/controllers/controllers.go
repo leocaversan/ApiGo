@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"go/models"
-	"go/services"
+	"go/src/models"
+	"go/src/services"
 )
 
 func GetAmount(w http.ResponseWriter, r *http.Request) {

@@ -4,8 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"go/controllers"
-
+	"go/src/controllers"
 	"github.com/gorilla/mux"
 )
 

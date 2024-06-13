@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"go/routes"
+	"go/src/routes"
 )
 
 func main() {

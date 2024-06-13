@@ -4,8 +4,8 @@ import (
 	"context"
 	"encoding/json"
 
-	"go/conection"
-	"go/models"
+	"go/src/conection"
+	"go/src/models"
 )
 
 func GetUserById(id string) (models.User, error) {
